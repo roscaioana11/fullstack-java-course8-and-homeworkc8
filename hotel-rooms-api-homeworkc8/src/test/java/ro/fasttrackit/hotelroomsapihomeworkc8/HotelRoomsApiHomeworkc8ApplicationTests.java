@@ -1,13 +1,13 @@
-package ro.fasttrackit.hotelroomsapihomeworkc8;
-
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
-
-@SpringBootTest
-class HotelRoomsApiHomeworkc8ApplicationTests {
-
-	@Test
-	void contextLoads() {
-	}
-
-}
+//package ro.fasttrackit.hotelroomsapihomeworkc8;
+//
+//import org.junit.jupiter.api.Test;
+//import org.springframework.boot.test.context.SpringBootTest;
+//
+//@SpringBootTest
+//class HotelRoomsApiHomeworkc8ApplicationTests {
+//
+//	@Test
+//	void contextLoads() {
+//	}
+//
+//}
