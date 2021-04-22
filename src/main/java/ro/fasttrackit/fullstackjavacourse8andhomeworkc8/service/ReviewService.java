@@ -1,9 +1,10 @@
-package ro.fasttrackit.curs8.service;
+package ro.fasttrackit.fullstackjavacourse8andhomeworkc8.service;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
-import ro.fasttrackit.curs8.model.entity.Review;
-import ro.fasttrackit.curs8.repository.ReviewRepository;
+import ro.fasttrackit.fullstackjavacourse8andhomeworkc8.model.entity.Review;
+import ro.fasttrackit.fullstackjavacourse8andhomeworkc8.repository.ReviewRepository;
+
 
 import java.util.List;
 

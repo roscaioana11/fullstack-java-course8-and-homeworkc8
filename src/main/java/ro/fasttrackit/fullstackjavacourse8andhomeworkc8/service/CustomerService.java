@@ -1,11 +1,11 @@
-package ro.fasttrackit.curs8.service;
+package ro.fasttrackit.fullstackjavacourse8andhomeworkc8.service;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
-import ro.fasttrackit.curs8.model.CustomerFilters;
-import ro.fasttrackit.curs8.model.entity.Customer;
-import ro.fasttrackit.curs8.repository.CustomerDao;
-import ro.fasttrackit.curs8.repository.CustomerRepository;
+import ro.fasttrackit.fullstackjavacourse8andhomeworkc8.model.CustomerFilters;
+import ro.fasttrackit.fullstackjavacourse8andhomeworkc8.model.entity.Customer;
+import ro.fasttrackit.fullstackjavacourse8andhomeworkc8.repository.CustomerDao;
+import ro.fasttrackit.fullstackjavacourse8andhomeworkc8.repository.CustomerRepository;
 
 import java.util.List;
 

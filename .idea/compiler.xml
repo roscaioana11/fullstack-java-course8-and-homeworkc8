@@ -10,15 +10,9 @@
         <module name="hotel-rooms-api-homeworkc8" />
         <module name="fullstack-java-course8-and-homeworkc8" />
       </profile>
-      <profile name="Annotation profile for Unknown" enabled="true">
-        <sourceOutputDir name="../../target/generated-sources/annotations" />
-        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <module name="wrapper" />
-      </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="fullstack-java-course8-and-homeworkc8" target="15" />
+      <module name="fullstack-java-course8-and-homeworkc8" target="9" />
       <module name="hotel-rooms-api-homeworkc8" target="15" />
       <module name="restaurant-app-homeworkc7" target="15" />
       <module name="wrapper" target="1.5" />

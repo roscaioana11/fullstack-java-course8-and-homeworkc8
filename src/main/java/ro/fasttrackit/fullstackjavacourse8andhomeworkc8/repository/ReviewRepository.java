@@ -1,7 +1,8 @@
-package ro.fasttrackit.curs8.repository;
+package ro.fasttrackit.fullstackjavacourse8andhomeworkc8.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
-import ro.fasttrackit.curs8.model.entity.Review;
+import ro.fasttrackit.fullstackjavacourse8andhomeworkc8.model.entity.Review;
+
 
 import java.util.List;
 

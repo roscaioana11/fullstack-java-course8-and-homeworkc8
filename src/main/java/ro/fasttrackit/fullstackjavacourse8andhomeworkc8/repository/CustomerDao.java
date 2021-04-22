@@ -1,8 +1,8 @@
-package ro.fasttrackit.curs8.repository;
+package ro.fasttrackit.fullstackjavacourse8andhomeworkc8.repository;
 
 import org.springframework.stereotype.Repository;
-import ro.fasttrackit.curs8.model.CustomerFilters;
-import ro.fasttrackit.curs8.model.entity.Customer;
+import ro.fasttrackit.fullstackjavacourse8andhomeworkc8.model.CustomerFilters;
+import ro.fasttrackit.fullstackjavacourse8andhomeworkc8.model.entity.Customer;
 
 import javax.persistence.EntityManager;
 import javax.persistence.criteria.CriteriaBuilder;

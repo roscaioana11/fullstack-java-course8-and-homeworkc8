@@ -1,4 +1,4 @@
-package ro.fasttrackit.curs8.model.entity;
+package ro.fasttrackit.fullstackjavacourse8andhomeworkc8.model.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -6,6 +6,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 import javax.persistence.*;
+
 import java.util.List;
 
 import static javax.persistence.CascadeType.PERSIST;

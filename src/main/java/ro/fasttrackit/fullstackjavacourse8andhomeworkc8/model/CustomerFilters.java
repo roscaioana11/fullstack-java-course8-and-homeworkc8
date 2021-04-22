@@ -1,4 +1,4 @@
-package ro.fasttrackit.curs8.model;
+package ro.fasttrackit.fullstackjavacourse8andhomeworkc8.model;
 
 import lombok.Value;
 

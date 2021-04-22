@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/fullstack-java-course8-and-homeworkc8.iml" filepath="$PROJECT_DIR$/fullstack-java-course8-and-homeworkc8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hotel-rooms-api-homeworkc8/hotel-rooms-api-homeworkc8.iml" filepath="$PROJECT_DIR$/hotel-rooms-api-homeworkc8/hotel-rooms-api-homeworkc8.iml" />
     </modules>
   </component>
 </project>

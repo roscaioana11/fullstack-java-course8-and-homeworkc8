@@ -1,4 +1,4 @@
-package ro.fasttrackit.curs8.model.entity;
+package ro.fasttrackit.fullstackjavacourse8andhomeworkc8.model.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

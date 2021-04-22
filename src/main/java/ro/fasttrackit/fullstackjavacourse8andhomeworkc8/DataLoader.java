@@ -1,11 +1,11 @@
-package ro.fasttrackit.curs8;
+package ro.fasttrackit.fullstackjavacourse8andhomeworkc8;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
-import ro.fasttrackit.curs8.model.entity.*;
-import ro.fasttrackit.curs8.repository.CustomerRepository;
-import ro.fasttrackit.curs8.repository.ReviewRepository;
+import ro.fasttrackit.fullstackjavacourse8andhomeworkc8.model.entity.*;
+import ro.fasttrackit.fullstackjavacourse8andhomeworkc8.repository.CustomerRepository;
+import ro.fasttrackit.fullstackjavacourse8andhomeworkc8.repository.ReviewRepository;
 
 import java.util.List;
 import java.util.function.Supplier;
